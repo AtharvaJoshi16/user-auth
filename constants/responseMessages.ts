@@ -8,4 +8,6 @@ export const RESPONSES = {
   INVALID_PAYLOAD: "Invalid Validation Payload",
   INVALID_PASSWORD: "Invalid password",
   NON_EXISTING_USER: "User does not exist with email <email>",
+  UNAUTHORIZED: "Unauthorized",
+  PASSWORD_RESET: "Password reset successful for user <email>",
 };
